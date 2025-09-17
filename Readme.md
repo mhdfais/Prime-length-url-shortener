@@ -6,4 +6,4 @@ Client
 server
 -- add add env with PORT, MONGO_URI, FRONTEND_URL (5555, mongodb://localhost:27017/url-shortener, http://localhost:5173)
 -- npm install
--- npm start / npm run dev
+-- npm start OR npm run dev
